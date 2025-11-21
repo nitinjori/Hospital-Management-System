@@ -31,7 +31,7 @@ Steps to run the project in Machine:
 
 SOFTWARES USED:
 
-1) XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
+1) XAMPP was installed on the Windows machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
 2) Visual Code used as a text editor.
 3) Google Chrome
 <--------------------------------The ‘Home’ page consists of 3 modules: ----------------------------------->
@@ -85,3 +85,12 @@ Implementation of export button in admin module to export all details to an exce
 
 
 Output: 
+<img width="1917" height="867" alt="first" src="https://github.com/user-attachments/assets/4278f35b-6f39-4c6a-b905-dfe8412e65c9" />
+<img width="1901" height="868" alt="second" src="https://github.com/user-attachments/assets/647819d7-aa5a-42f8-8a7b-49ad6a509922" />
+<img width="1900" height="872" alt="third" src="https://github.com/user-attachments/assets/04350894-8a27-46f9-be44-97b6a546cc85" />
+<img width="1917" height="871" alt="fourth" src="https://github.com/user-attachments/assets/ceee7242-422e-4c8a-8b09-b29f934f4832" />
+<img width="1917" height="868" alt="Fifth" src="https://github.com/user-attachments/assets/5cd083a7-b13d-4307-89e9-422e04fa437a" />
+
+
+
+
